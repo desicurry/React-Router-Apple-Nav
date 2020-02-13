@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: black;
 }
 
 .nav-header {
@@ -13,6 +14,8 @@
 .nav-header * {
   padding: 15px;
   font-size: 14px;
+  color: white;
+  text-decoration: none;
 }
 
 .nav-header .fa-apple {
@@ -28,6 +31,7 @@
 .sub-nav-header * {
   padding: 0 10px 5px;
   font-size: 12px;
+  color: white;
 }
 
 .sub-category {
@@ -37,5 +41,5 @@
 }
 
 .sub-category img {
-  width: 30px;
+  width: 40px;
 }
